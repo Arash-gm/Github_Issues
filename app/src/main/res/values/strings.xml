@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="search">Search</string>
+    <string name="created_at">created :</string>
+    <string name="by">By</string>
+    <string name="at">at</string>
+    <string name="no_Comments">No Comments Yet!</string>
+</resources>

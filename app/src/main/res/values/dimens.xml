@@ -1,0 +1,29 @@
+<resources>
+
+    <dimen name="fab_margin">16dp</dimen>
+    
+    <dimen name="card_frame_radius">8dp</dimen>
+    <dimen name="card_frame_radius_search">4dp</dimen>
+    <dimen name="card_frame_elevation">8dp</dimen>
+    <dimen name="card_frame_contentPadding">0dp</dimen>
+    <dimen name="card_frame_margin">4dp</dimen>
+    
+    <dimen name="toolbar_padding">4dp</dimen>
+    
+    <dimen name="size_text_h1">20sp</dimen>
+    <dimen name="size_text_h2">16sp</dimen>
+    <dimen name="size_text_h3">12sp</dimen>
+    <dimen name="size_text_h4">8sp</dimen>
+    <dimen name="size_text_h5">4sp</dimen>
+    
+    <dimen name="height_issue_row">180dp</dimen>
+    <dimen name="margin_issue">4dp</dimen>
+    <dimen name="height_issue_img">100dp</dimen>
+    <dimen name="height_issue_search">48dp</dimen>
+    <dimen name="height_search_icon">48dp</dimen>
+    <dimen name="height_pagination_loading">16dp</dimen>
+    <dimen name="height_detail_header">120dp</dimen>
+    <dimen name="margin_scroll_view">24dp</dimen>
+    <dimen name="size_user_avatar">48dp</dimen>
+
+</resources>
